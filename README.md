@@ -1,4 +1,4 @@
-# Dual-Process-Trojan-
+# Dual-Process-Trojan
 A simple Trojan program. It's just for coding exercise rather than attacking others' computer.  
 # Introduction  
 The remote communication between the server and the client can be established through socket, and the client can control the server through remote command, including remote message transmission, file transfer, remote CMD control authority acquisition, etc. It can detect the current idle port and use the existing port socket communication, modify the registry to achieve the default start of the Trojan, associated with all kinds of file opening and realise the Trojan dual-process daemon and prevent the end of the process.  
