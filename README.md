@@ -1,5 +1,5 @@
 # Dual Process Trojan
-A simple Trojan program. It's just for coding exercise rather than attacking others' computer.  
+A simple Trojan program.  
   
 # Introduction  
 •	Established a remote communication between the server and the client through socket.  
